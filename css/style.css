@@ -4,6 +4,7 @@
 :root {
     --light-gray:#2b3032a1;
     --primary-color: #45ccb8;
+    --primary-text-color:#2b303218;
     --border: #2b303218;
     --text-color:#ff686b;
     --roboto:"Roboto",sans-serif;
@@ -12,7 +13,7 @@
 }
 
 .primary-color{
-    color:var(--primary-color);
+    color:var(--primary-text-color);
 }
 .bg-primary-color{
     background-color:var(--primary-color)!important;
