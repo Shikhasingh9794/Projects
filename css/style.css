@@ -37,3 +37,26 @@ header{
 header.site-title{
     font-family:var(--gugi);
 }
+.container.dropdown-toogle,
+.container.dropdown-item{
+    font: size 0.7cm;
+}
+.header-links a {
+font-size:0.5cm;
+text-decoration:none;
+color:white;
+}
+/* Navigation Menu*/
+.navbar-nav{
+    padding: 0.8cm 0cm;
+}
+.navbar-nav .nav-link{
+    font-size:0.5cm;
+    color:var(--light-gray)!important;
+}
+.navbar-nav .nav-item .nav-link{
+    padding:0 1.0cm;
+}
+.navbar-nav .basket-icon{
+margin-right:7.5rem !important;
+}
